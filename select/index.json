@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "フローリア",
+  "base_artist": "Tomohisa Sako",
+  "createdAt": "2026-02-17T08:47:03.344618Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "フローリア",
+      "artist": "Tomohisa Sako",
+      "has_synced": true,
+      "path": "select/01_フローリア_Tomohisa_Sako.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "フローリア",
+      "artist": "佐香智久",
+      "has_synced": true,
+      "path": "select/02_フローリア_佐香智久.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "フローリア",
+      "artist": "Tomohisa Sako",
+      "has_synced": true,
+      "path": "select/03_フローリア_Tomohisa_Sako.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フローリア",
+      "artist": "佐香智久",
+      "has_synced": false,
+      "path": "select/pl_01_フローリア_佐香智久.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "フローリア",
+      "artist": "佐香智久",
+      "has_synced": false,
+      "path": "select/pl_02_フローリア_佐香智久.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "フローリア",
+      "artist": "佐香智久",
+      "has_synced": false,
+      "path": "select/pl_03_フローリア_佐香智久.txt"
+    }
+  ]
+}
